@@ -1,0 +1,2024 @@
+Pizza
+Hamburger
+Sushi
+Ramen
+Pasta
+Tacos
+Curry
+Steak
+Salad
+Cake
+Ice Cream
+Dumplings
+Pho
+Paella
+Risotto
+Falafel
+Burrito
+Sandwich
+Hot Dog
+Fried Rice
+Pad Thai
+Bibimbap
+Naan
+Croissant
+Bagel
+Waffle
+Pancake
+Crepe
+Omelette
+Scrambled Eggs
+Fried Egg
+Poached Egg
+Eggs Benedict
+French Toast
+Granola
+Oatmeal
+Yogurt
+Smoothie Bowl
+Acai Bowl
+Toast
+Avocado Toast
+Bruschetta
+Crostini
+Bruschetta
+Garlic Bread
+Focaccia
+Sourdough Bread
+Baguette
+Brioche
+Pita Bread
+Flatbread
+Tortilla
+Corn Tortilla
+Flour Tortilla
+Chapati
+Paratha
+Roti
+Injera
+Lavash
+Khachapuri
+Pretzel
+Soft Pretzel
+Dinner Roll
+Biscuit
+Scone
+Muffin
+Blueberry Muffin
+Banana Bread
+Zucchini Bread
+Pumpkin Bread
+Cornbread
+Soufflé
+Quiche
+Frittata
+Shakshuka
+Huevos Rancheros
+Chilaquiles
+Menudo
+Pozole
+Enchiladas
+Tamales
+Quesadilla
+Nachos
+Guacamole
+Pico de Gallo
+Salsa Verde
+Mole
+Chile Relleno
+Tostada
+Flautas
+Sopes
+Gorditas
+Elote
+Churros
+Tres Leches Cake
+Flan
+Arroz con Leche
+Empanada
+Arepa
+Ceviche
+Lomo Saltado
+Aji de Gallina
+Causa
+Papa a la Huancaina
+Anticuchos
+Churrasco
+Feijoada
+Pao de Queijo
+Brigadeiro
+Caipirinha
+Açaí
+Moqueca
+Acarajé
+Vatapá
+Coxinha
+Pastel
+Bolo de Rolo
+Pupusa
+Gallo Pinto
+Baleada
+Sopa de Mondongo
+Patacones
+Sancocho
+Bandeja Paisa
+Ajiaco
+Lechona
+Pernil
+Mofongo
+Tostones
+Ropa Vieja
+Lechon Asado
+Vaca Frita
+Picadillo
+Arroz con Pollo
+Arroz con Frijoles
+Plantain
+Fried Plantain
+Boiled Plantain
+Yuca Frita
+Coconut Rice
+Jerk Chicken
+Jerk Pork
+Curry Goat
+Oxtail Stew
+Ackee and Saltfish
+Callaloo
+Roti Curry
+Doubles
+Bake and Shark
+Pelau
+Macaroni Pie
+Butter Chicken
+Chicken Tikka Masala
+Palak Paneer
+Saag Aloo
+Aloo Gobi
+Dal Makhani
+Dal Tadka
+Chana Masala
+Rajma
+Biryani
+Chicken Biryani
+Lamb Biryani
+Vegetable Biryani
+Hyderabadi Biryani
+Pulao
+Khichdi
+Pongal
+Idli
+Dosa
+Masala Dosa
+Uttapam
+Sambar
+Rasam
+Chole Bhature
+Puri Bhaji
+Vada Pav
+Pav Bhaji
+Bhel Puri
+Pani Puri
+Sev Puri
+Dahi Puri
+Ragda Pattice
+Samosa
+Kachori
+Pakora
+Bhajia
+Dhokla
+Khandvi
+Thepla
+Undhiyu
+Shrikhand
+Basundi
+Gulab Jamun
+Rasgulla
+Kheer
+Halwa
+Barfi
+Ladoo
+Jalebi
+Imarti
+Modak
+Puran Poli
+Malpua
+Payasam
+Pongal Sweet
+Mysore Pak
+Adhirasam
+Murukku
+Chakli
+Besan Ladoo
+Til Ladoo
+Rava Ladoo
+Motichoor Ladoo
+Sandesh
+Chum Chum
+Pantua
+Mishti Doi
+Lyangcha
+Mango Lassi
+Chaas
+Jaljeera
+Thandai
+Sharbat
+Lassi
+Naan Bread
+Tandoori Chicken
+Seekh Kebab
+Shami Kebab
+Galouti Kebab
+Boti Kebab
+Tikka Kebab
+Reshmi Kebab
+Malai Kofta
+Shahi Paneer
+Paneer Tikka
+Paneer Butter Masala
+Korma
+Nihari
+Haleem
+Paya
+Bihari Kebab
+Litti Chokha
+Sattu Paratha
+Baingan Bharta
+Matar Paneer
+Navratan Korma
+Mughlai Paratha
+Lucknowi Biryani
+Kolkata Biryani
+Sindhi Biryani
+Karahi
+Nihari Gosht
+Keema Matar
+Saag Gosht
+Gosht Curry
+Mutton Curry
+Prawn Curry
+Fish Curry
+Goan Fish Curry
+Malvani Curry
+Chettinad Curry
+Kerala Fish Molee
+Meen Pollichathu
+Appam
+Puttu
+Kadala Curry
+Avial
+Thoran
+Pachadi
+Olan
+Erissery
+Beef Roast Kerala
+Kozhikodan Halwa
+Beef Fry Kerala
+Karimeen Pollichathu
+Prawn Moilee
+Lobster Curry
+Crab Curry
+Squid Fry
+Konjac Stir Fry
+Tempeh Curry
+Tofu Scramble
+Tofu Stir Fry
+Mapo Tofu
+Kung Pao Chicken
+General Tso Chicken
+Sweet and Sour Pork
+Char Siu
+Peking Duck
+Dim Sum
+Har Gow
+Siu Mai
+Char Siu Bao
+Turnip Cake
+Egg Tart
+Sesame Ball
+Taro Dumpling
+Cheung Fun
+Lo Mein
+Chow Mein
+Fried Noodles
+Dan Dan Noodles
+Wonton Soup
+Hot and Sour Soup
+Egg Drop Soup
+Congee
+Claypot Rice
+Hainanese Chicken Rice
+Nasi Goreng
+Mie Goreng
+Laksa
+Satay
+Rendang
+Nasi Lemak
+Char Kway Teow
+Rojak
+Popiah
+Bak Kut Teh
+Hokkien Mee
+Wonton Mee
+Century Egg
+Stinky Tofu
+Braised Pork Belly
+Dongpo Pork
+Red Braised Pork
+Lion's Head Meatballs
+Kung Pao Shrimp
+Crispy Duck
+Twice Cooked Pork
+Fish Fragrant Pork
+Smashed Cucumber Salad
+Cold Sesame Noodles
+Mapo Eggplant
+Braised Eggplant
+Steamed Fish
+Steamed Dumplings
+Potstickers
+Xiao Long Bao
+Scallion Pancake
+Bing
+Jianbing
+Zhajiangmian
+Beef Noodle Soup
+Lu Rou Fan
+Oyster Vermicelli
+Three Cup Chicken
+Braised Pork Rice
+Taiwanese Sausage
+Stinky Tofu Fried
+Bubble Tea
+Taro Milk Tea
+Matcha Latte
+Hokkaido Milk Tea
+Brown Sugar Boba
+Takoyaki
+Okonomiyaki
+Yakitori
+Tonkatsu
+Katsu Curry
+Gyudon
+Oyakodon
+Teriyaki Chicken
+Miso Soup
+Edamame
+Gyoza
+Karaage
+Agedashi Tofu
+Chawanmushi
+Onigiri
+Sushi Roll
+Maki Roll
+Nigiri Sushi
+Sashimi
+Temaki
+Udon
+Soba
+Yakisoba
+Tempura
+Tendon
+Sukiyaki
+Shabu Shabu
+Nabe
+Oden
+Tamagoyaki
+Dashimaki Tamago
+Agedashi Nasu
+Goma Ae
+Hiyayakko
+Yudofu
+Chazuke
+Ochazuke
+Taiyaki
+Dorayaki
+Daifuku
+Mochi
+Anmitsu
+Kakigori
+Mitarashi Dango
+Zenzai
+Ohagi
+Warabi Mochi
+Pudding
+Purin
+Mont Blanc Cake
+Strawberry Shortcake Japanese
+Wagashi
+Yokan
+Higashi
+Manjū
+Imagawayaki
+Baumkuchen
+Soft Serve Ice Cream
+Melon Pan
+Anpan
+Curry Pan
+Cream Pan
+Shokupan
+Katsu Sando
+Egg Salad Sandwich Japanese
+Tamago Sando
+Onigirazu
+Yakiimo
+Nikumaki Onigiri
+Okowa
+Chirashi Sushi
+Inari Sushi
+Maze Gohan
+Oyako Soba
+Kitsune Udon
+Zaru Soba
+Tempura Udon
+Nabeyaki Udon
+Yaki Udon
+Tanmen
+Tsukemen
+Mazemen
+Shio Ramen
+Shoyu Ramen
+Miso Ramen
+Tonkotsu Ramen
+Spicy Miso Ramen
+Black Garlic Ramen
+Mazesoba
+Jiro Ramen
+Tantanmen
+Hakata Ramen
+Sapporo Ramen
+Kitakata Ramen
+Bibimbap Bowl
+Japchae
+Kimchi Jjigae
+Doenjang Jjigae
+Sundubu Jjigae
+Samgyeopsal
+Galbi
+Bulgogi
+Dakgalbi
+Dakdoritang
+Haemul Pajeon
+Bindaetteok
+Tteokbokki
+Rabokki
+Fried Tteok
+Gimbap
+Kimbap
+Seolleongtang
+Galbitang
+Yukgaejang
+Gamjatang
+Doenjang Guk
+Miyeok Guk
+Kongnamul Guk
+Sundubu
+Kkori Gomtang
+Ox Bone Soup
+Naengmyeon
+Mul Naengmyeon
+Bibim Naengmyeon
+Jajangmyeon
+Jjamppong
+Tangsuyuk
+Mapo Tofu Korean
+Dakjjim
+Andong Jjimdak
+Galbi Jjim
+Braised Short Ribs Korean
+Haemul Bokkeum
+Ojingeo Bokkeum
+Dubu Jorim
+Kongnamul Muchim
+Gosari Namul
+Sigeumchi Namul
+Japchae Noodles
+Hotteok
+Bungeoppang
+Gyeranppang
+Hoddeok
+Tteok
+Songpyeon
+Sikhye
+Bingsu
+Patbingsu
+Strawberry Bingsu
+Mango Bingsu
+Dalgona Coffee
+Yakgwa
+Gangjeong
+Jeon
+Kimchi Pancake
+Green Onion Pancake
+Seafood Pancake
+Mung Bean Pancake
+Sundae Korean
+Tteok Galbi
+Ori Gui
+Duck Galbi
+Hanjeongsik
+Dosirak
+Samgyetang
+Ginseng Chicken Soup
+Chicken Porridge Korean
+Juk
+Nurungji
+Sikhye Rice Drink
+Makgeolli
+Soju Cocktail
+Kimchi
+Kkakdugi
+Oi Sobagi
+Baechu Kimchi
+Water Kimchi
+Nabak Kimchi
+Pad See Ew
+Khao Pad
+Tom Kha Gai
+Tom Yum
+Green Curry
+Red Curry
+Massaman Curry
+Panang Curry
+Yellow Curry
+Khao Man Gai
+Som Tum
+Larb
+Yam Nua
+Thai Beef Salad
+Mango Sticky Rice
+Khao Niew Mamuang
+Khanom Chan
+Tub Tim Grob
+Bua Loy
+Kanom Krok
+Pad Kra Pao
+Basil Fried Rice
+Khao Tom
+Thai Congee
+Pad Thai Shrimp
+Green Papaya Salad
+Pork Satay
+Chicken Satay
+Shrimp Satay
+Peanut Sauce
+Nam Prik
+Nahm Jim
+Fish Cake Thai
+Tod Mun Pla
+Shrimp Cakes Thai
+Cry Baby Noodles
+Khanom Jeen
+Thai Spaghetti
+Khao Soi
+Massaman Beef
+Gaeng Phet
+Jungle Curry
+Steamed Jasmine Rice
+Sticky Rice
+Fried Banana Thai
+Roti Thai
+Roti Mataba
+Martabak
+Banh Mi
+Goi Cuon
+Cha Gio
+Bun Bo Hue
+Cao Lau
+Mi Quang
+Banh Xeo
+Banh Cuon
+Com Tam
+Bun Cha
+Bun Thit Nuong
+Banh Bao
+Chao
+Vietnamese Congee
+Hu Tieu
+Bun Rieu
+Lau
+Vietnamese Hot Pot
+Nem Ran
+Cha Ca
+Bo Luc Lac
+Ca Kho To
+Banh Canh
+Che
+Banh Cam
+Banh Dau Xanh
+Che Ba Mau
+Pandan Cake
+Vietnamese Coffee
+Ca Phe Trung
+Egg Coffee Vietnamese
+Biryani Rice
+Kabsa
+Mansaf
+Maqluba
+Shawarma
+Falafel Wrap
+Hummus
+Baba Ganoush
+Tabbouleh
+Fattoush
+Kibbeh
+Stuffed Grape Leaves
+Dolma
+Labneh
+Za'atar Bread
+Manakish
+Fatayer
+Sambousek
+Sfeeha
+Mafrukeh
+Knafeh
+Baklava
+Maamoul
+Halva
+Basbousa
+Om Ali
+Qatayef
+Awamat
+Luqaimat
+Muhallabia
+Rice Pudding Arab
+Meghli
+Aish el Saraya
+Lebanese Rice
+Mjaddara
+Ful Medames
+Shakshuka Middle Eastern
+Msabbaha
+Fattet Hummus
+Makloubeh
+Musakhan
+Palestinian Chicken
+Mujaddara
+Moussaka
+Kibbeh Nayyeh
+Arayes
+Kafta
+Kofta
+Koofteh
+Kebab
+Adana Kebab
+Urfa Kebab
+Iskender Kebab
+Doner Kebab
+Lahmacun
+Pide
+Börek
+Gözleme
+Menemen
+Manti
+Turkish Ravioli
+Simit
+Pogaca
+Acma
+Kumpir
+Balik Ekmek
+Midye Dolma
+Kokoreç
+Tantuni
+Mercimek Çorbası
+Ezogelin Çorbası
+Yayla Çorbası
+Tarhana Çorbası
+Imam Bayildi
+Hunkar Begendi
+Musakka
+Çiğ Köfte
+Bulgur Pilaf
+Pilav
+Ic Pilav
+Yaprak Sarma
+Etli Yaprak Sarma
+Zeytinyagli Dolma
+Kabak Dolma
+Biber Dolma
+Domates Dolma
+Etli Kabak Dolma
+Karnıyarık
+Hünkar Beğendi
+Tas Kebabı
+Güveç
+Kuzu Tandır
+Kuzu Kapama
+Kuzu Güveç
+İskembe Çorbası
+Paça
+Kokoreç Sandwich
+Sütlaç
+Kazandibi
+Muhallebi
+Keşkek
+Aşure
+Lokum
+Turkish Delight
+Dondurma
+Maraş Ice Cream
+Boza
+Ayran
+Şalgam Suyu
+Şerbet
+Kadayıf
+Revani
+Şekerpare
+Tahin Helvası
+Pişmaniye
+Cezerye
+Akide Şekeri
+Harissa
+Merguez
+Shakshuka Tunisian
+Brik
+Mechouia
+Ojja
+Couscous
+Lamb Tagine
+Chicken Tagine
+Vegetable Tagine
+Bastilla
+Bissara
+Harira
+Tanjia
+Rfissa
+Mrouzia
+Zaalouk
+Taktouka
+Sardines Chermoula
+Moroccan Mint Tea
+Sfenj
+Chebakia
+Sellou
+Mhancha
+Kaab el Ghazal
+Briouats
+Pastilla
+Lamb Couscous
+Fish Couscous
+Bamia
+Egyptian Rice
+Koshari
+Foul
+Feseekh
+Feteer Meshaltet
+Konafa
+Umm Ali
+Basboosa
+Egyptian Ful
+Molokhia
+Fattah
+Mahshi
+Warak Dawali
+Hamam Mahshi
+Hawawshi
+Kushari
+Sayadieh
+Lebanese Tabbouleh
+Fattoush Salad
+Ethiopian Injera
+Doro Wat
+Tibs
+Kitfo
+Gored Gored
+Shiro
+Misir Wot
+Atkilt Wot
+Alicha Wot
+Ayib
+Tej
+Tej Bet
+Injera with Wots
+Niter Kibbeh
+Gomen
+Ethiopian Lentils
+Qibe
+Firfir
+Kategna
+Sambusa Ethiopian
+Mahamri
+Ugali
+Sukuma Wiki
+Nyama Choma
+Mutura
+Githeri
+Irio
+Pilau Kenyan
+Chapati Kenyan
+Mandazi
+Maharagwe
+Wali wa Nazi
+Mchuzi wa Samaki
+Wali na Maharage
+Kachumbari
+Chai Masala
+Supu ya Ndizi
+Mchicha
+Biriani Kenyan
+Pilau Rice
+Zanzibar Pizza
+Urojo
+Supu ya Ndimu
+Jollof Rice
+Nigerian Jollof
+Ghanaian Jollof
+Egusi Soup
+Ogbono Soup
+Banga Soup
+Okra Soup
+Efo Riro
+Afang Soup
+Edikaikong
+Oha Soup
+Bitterleaf Soup
+Nsala Soup
+Fried Plantain Nigerian
+Dodo
+Akara
+Moi Moi
+Suya
+Kilishi
+Masa
+Tuwo Shinkafa
+Miyan Kuka
+Tuwon Masara
+Ogi
+Pap
+Akamu
+Garri
+Eba
+Amala
+Semo
+Fufu
+Pounded Yam
+Ofada Rice
+Bole
+Pepper Soup
+Nkwobi
+Isi Ewu
+Ofe Oha
+Ofe Akwu
+Palm Nut Soup
+White Soup
+Abacha
+African Salad
+Puff Puff
+Chin Chin
+Coconut Candy
+Groundnut Soup
+West African Groundnut Stew
+Thieboudienne
+Mafé
+Yassa Chicken
+Yassa Fish
+Domoda
+Benachin
+Egusi Stew
+Ndolé
+Eru Soup
+Okok
+Saka Saka
+Moambe Chicken
+Braised Oxtail
+Sadza
+Pap South African
+Bunny Chow
+Bobotie
+Boerewors
+Sosaties
+Braai
+Malva Pudding
+Milk Tart
+Koeksisters
+Biltong
+Droëwors
+Chakalaka
+Pap and Wors
+Umngqusho
+Umvubo
+Isijingi
+Mieliepap
+Snoek
+Pickled Fish
+Cape Malay Curry
+Dhaltjies
+Gatsby Sandwich
+Gatsby
+Steak and Kidney Pie
+Cornish Pasty
+Fish and Chips
+Chicken Tikka Masala British
+Shepherd's Pie
+Cottage Pie
+Sunday Roast
+Yorkshire Pudding
+Roast Beef
+Roast Lamb
+Roast Chicken
+Roast Pork
+Bangers and Mash
+Toad in the Hole
+Full English Breakfast
+Beans on Toast
+Welsh Rarebit
+Scotch Egg
+Pork Pie
+Sausage Roll
+Ploughman's Lunch
+Prawn Cocktail
+Smoked Salmon
+Kedgeree
+Cullen Skink
+Cock-a-Leekie
+Haggis
+Neeps and Tatties
+Cranachan
+Clootie Dumpling
+Tablet
+Scottish Shortbread
+Bara Brith
+Cawl
+Laver Bread
+Faggots
+Mushy Peas
+Chip Butty
+Eton Mess
+Summer Pudding
+Sticky Toffee Pudding
+Spotted Dick
+Rice Pudding British
+Bread and Butter Pudding
+Treacle Tart
+Bakewell Tart
+Victoria Sponge
+Battenberg Cake
+Dundee Cake
+Chelsea Bun
+Hot Cross Bun
+Eccles Cake
+Custard Tart
+Mince Pie
+Christmas Pudding
+Steak and Ale Pie
+Beef Wellington
+Chicken Kiev
+Coronation Chicken
+Waldorf Salad
+Scones with Clotted Cream
+Crumpet
+Teacake
+Flapjack
+Shortbread
+Digestive Biscuit
+Jaffa Cake
+Jammie Dodger
+Bourbon Biscuit
+Boiled Sweet
+Toffee Apple
+Candy Floss
+Brandy Snap
+Profiterole
+Éclair
+Meringue
+Pavlova
+Trifle
+Syllabub
+Fool
+Cassoulet
+Bouillabaisse
+Ratatouille
+Boeuf Bourguignon
+Coq au Vin
+Blanquette de Veau
+Pot-au-Feu
+Steak Frites
+Croque Monsieur
+Croque Madame
+Salade Niçoise
+Quiche Lorraine
+French Onion Soup
+Vichyssoise
+Soupe à l'oignon
+Gratin Dauphinois
+Soufflé au Fromage
+Crème Brûlée
+Crème Caramel
+Mousse au Chocolat
+Charlotte Russe
+Île Flottante
+Madeleine
+Financier
+Canelé
+Kouign-Amann
+Galette Bretonne
+Tarte Tatin
+Clafoutis
+Flamiche
+Pissaladière
+Socca
+Brandade
+Confit de Canard
+Foie Gras
+Escargots
+Oysters Rockefeller
+Moules Marinières
+Plateau de Fruits de Mer
+Terrine
+Pâté
+Rillettes
+Crêpe Suzette
+Beurre Blanc
+Hollandaise Sauce
+Béarnaise Sauce
+Béchamel
+Steak Tartare
+Tartare de Thon
+Gougère
+Coquilles Saint-Jacques
+Gratinée
+Fondue
+Raclette
+Tartiflette
+Gratin de Courgettes
+Tarte Flambée
+Choucroute Garnie
+Baeckeoffe
+Flammekueche
+Kougelhopf
+Mannele
+Pain d'Épices
+Bredele
+Linzer Torte
+Sachertorte
+Apfelstrudel
+Kaiserschmarrn
+Wiener Schnitzel
+Goulash
+Tafelspitz
+Zwiebelrostbraten
+Schweinsbraten
+Palatschinken
+Marillenknödel
+Topfenstrudel
+Vanillekipferl
+Gugelhupf
+Lebkuchen
+Stollen
+Black Forest Cake
+Schwarzwälder Kirschtorte
+Bienenstich
+Rote Grütze
+Quarkkeulchen
+Sauerbraten
+Rouladen
+Bratwurst
+Weißwurst
+Currywurst
+Schnitzel
+Kartoffelsalat
+Sauerkraut
+Kartoffelknödel
+Semmelknödel
+Dampfnudel
+Maultaschen
+Spätzle
+Käsespätzle
+Flädlesuppe
+Frischkäse
+Labskaus
+Grünkohl mit Pinkel
+Birnen Bohnen Speck
+Himmel und Erde
+Reibekuchen
+Rheinischer Sauerbraten
+Cologne Carnival Cake
+Kölscher Kaviar
+Handkäse mit Musik
+Frankfurter Grüne Soße
+Thüringer Rostbratwurst
+Dresdner Stollen
+Hamburger Franzbrötchen
+Berliner Pfannkuchen
+Pickled Herring
+Smørrebrød
+Danish Pastry
+Rugbrød
+Rødgrød
+Æbleskiver
+Frikadeller
+Flæskesteg
+Tarteletter
+Rye Bread
+Gravlax
+Jansson's Temptation
+Swedish Meatballs
+Pea Soup Swedish
+Crispbread
+Semlor
+Princess Cake
+Kladdkaka
+Kanelbulle
+Cardamom Bun
+Lefse
+Lutefisk
+Rakfisk
+Pinnekjøtt
+Kjøttkaker
+Fiskesuppe
+Rømmegrøt
+Multekrem
+Krumkake
+Fattigmann
+Speculaas
+Stroopwafel
+Poffertjes
+Bitterballen
+Stamppot
+Erwtensoep
+Rolmops
+Haring
+Rookworst
+Oliebollen
+Appelflap
+Vlaai
+Gevulde Speculaas
+Boterkoek
+Broodje Kroket
+Friet Oorlog
+Flemish Stew
+Waterzooi
+Gentse Stoverij
+Moules Frites
+Carbonnade
+Croquette de Crevettes
+Gaufre Liégeoise
+Speculoos
+Praline Belge
+Chocolate Belgian
+Dame Blanche
+Stoemp
+Vol-au-Vent
+Boulettes
+Carbonade Flamande
+Assiette de Charcuterie
+Raclette Swiss
+Rösti
+Zürcher Geschnetzeltes
+Älplermagronen
+Maluns
+Bündner Gerstensuppe
+Cervelat
+Landjäger
+Zuger Kirschtorte
+Basler Läckerli
+Bündner Nusstorte
+Tessiner Risotto
+Polenta Ticino
+Pizzoccheri
+Pasta e Fagioli
+Minestrone
+Ribollita
+Pappa al Pomodoro
+Acquacotta
+Cacciucco
+Bistecca alla Fiorentina
+Lampredotto
+Trippa alla Fiorentina
+Osso Buco
+Risotto alla Milanese
+Cotoletta alla Milanese
+Cassoeula
+Panettone
+Pandoro
+Colomba Pasquale
+Amaretti
+Cantucci
+Tiramisu
+Panna Cotta
+Gelato
+Granita
+Sfogliatella
+Cannoli
+Cassata
+Arancini
+Caponata
+Pasta alla Norma
+Spaghetti Aglio e Olio
+Cacio e Pepe
+Carbonara
+Amatriciana
+Gricia
+Coda alla Vaccinara
+Saltimbocca alla Romana
+Carciofi alla Romana
+Carciofi alla Giudia
+Supplì
+Fiori di Zucca Fritti
+Bruschetta al Pomodoro
+Spaghetti alle Vongole
+Linguine al Pesto
+Trofie al Pesto
+Focaccia Genovese
+Cappon Magro
+Farinata
+Ligurian Fish Stew
+Pesto Genovese
+Pasta al Pesto
+Orecchiette con Cime di Rapa
+Taralli
+Focaccia Pugliese
+Burrata
+Stracciatella
+Burrata Caprese
+Insalata Caprese
+Pizza Margherita
+Pizza Napoletana
+Pizza Diavola
+Pizza Quattro Stagioni
+Pizza Capricciosa
+Calzone
+Stromboli
+Pizza Fritta
+Ragù alla Bolognese
+Lasagna
+Tagliatelle al Ragù
+Tortellini in Brodo
+Tortelloni Burro e Salvia
+Cappelletti in Brodo
+Gramigna alla Salsiccia
+Gnocco Fritto
+Tigelle
+Crescentine
+Bomba di Riso
+Erbazzone
+Prosciutto e Melone
+Piadina Romagnola
+Passatelli in Brodo
+Vincisgrassi
+Brodetto Marchigiano
+Vincigrassi
+Olive all'Ascolana
+Ciauscolo
+Porchetta
+Crostata di Marmellata
+Crostata di Ricotta
+Torta della Nonna
+Zuppa Inglese
+Zeppole
+Graffe
+Baba al Rum
+Pastiera Napoletana
+Struffoli
+Roccocò
+Pasta e Ceci
+Ribollita Toscana
+Panzanella
+Farro Salad
+Lentil Soup Italian
+Ribollita
+Ciambella
+Torta Sbrisolona
+Torta di Polenta
+Torta di Mele
+Frittelle
+Bomboloni
+Bomba al Cioccolato
+Beignet
+Zeppola di San Giuseppe
+Paella Valenciana
+Paella de Mariscos
+Fideuà
+Gazpacho
+Salmorejo
+Ajoblanco
+Cocido Madrileño
+Fabada Asturiana
+Cocido Montañés
+Olla Podrida
+Puchero
+Escudella i Carn d'Olla
+Caldo Gallego
+Lacón con Grelos
+Pulpo a la Gallega
+Empanada Gallega
+Pimientos de Padrón
+Tortilla Española
+Tortilla de Patatas
+Patatas Bravas
+Croquetas de Jamón
+Pan con Tomate
+Pan con Tomate Catalán
+Gambas al Ajillo
+Calamares a la Romana
+Boquerones en Vinagre
+Espetos de Sardinas
+Pil Pil
+Bacalà al Pil Pil
+Marmitako
+Pintxos
+Pintxo de Tortilla
+Gilda
+Anchoa en Salazón
+Idiazabal
+Sobrasada
+Mahon Cheese
+Manchego
+Jamón Ibérico
+Jamón Serrano
+Chorizo
+Morcilla
+Lomo Embuchado
+Salchichón
+Butifarra
+Fuet
+Longanissa
+Migas
+Migas Manchegas
+Ropa Vieja Canaria
+Papas Arrugadas
+Mojo Rojo
+Mojo Verde
+Gofio Canario
+Churros con Chocolate
+Turrón
+Polvorón
+Mantecado
+Tocino de Cielo
+Crema Catalana
+Ensaimada
+Coca
+Mel i Mató
+Crema de Menjar Blanc
+Panellets
+Pastissets
+Roscos de Vino
+Alfajores Spanish
+Marzipan
+Mazapán
+Turron de Alicante
+Turron de Jijona
+Leche Frita
+Buñuelos
+Pestiños
+Arroz con Leche Spanish
+Natillas
+Cuajada
+Arroz Caldoso
+Fideos a la Cazuela
+Suquet de Peix
+Esqueixada
+Xató
+Escalivada
+Samfaina
+Romesco Sauce
+Picada
+Allioli
+Portuguese Egg Tart
+Pastel de Nata
+Bifanas
+Francesinha
+Bacalhau à Brás
+Bacalhau à Gomes de Sá
+Bacalhau com Natas
+Sardinhas Assadas
+Caldo Verde
+Açorda
+Cataplana
+Feijoada Portuguesa
+Alheira
+Farinheira
+Chouriço Portuguese
+Linguiça
+Morcela
+Tripas à Moda do Porto
+Arroz de Marisco
+Caldeirada
+Sopa de Pedra
+Migas Alentejanas
+Açorda Alentejana
+Porco Preto
+Carne de Porco à Alentejana
+Ensopado de Borrego
+Chanfana
+Cabidela
+Arroz de Frango
+Feijoada à Transmontana
+Roupa Velha
+Pipis
+Barriga de Atum
+Ginjinha
+Jeropiga
+Porto Wine Cake
+Bolo de Mel
+Bolo Rei
+Rabanadas
+Sonhos
+Filhoses
+Malasadas
+Pudim Abade de Priscos
+Aletria
+Arroz Doce
+Leite-Creme
+Queijadas de Sintra
+Pastéis de Feijão
+Travesseiros de Sintra
+Tarte de Amêndoa
+Bola de Berlim
+Pão de Ló
+Bolo de Arroz
+Suspiro
+Polvorão
+Bolo Podre
+Figo Seco
+Medronho
+Pierogi
+Bigos
+Żurek
+Barszcz
+Gołąbki
+Kotlet Schabowy
+Rosół
+Zrazy
+Flaki
+Czernina
+Chłodnik
+Grochówka
+Kapuśniak
+Grzyby z Kapustą
+Kaczka Pieczona
+Gęś Pieczona
+Bigos z Kapustą
+Kielbasa
+Kaszanka
+Żeberka
+Pierogi Ruskie
+Pierogi z Mięsem
+Pierogi z Kapustą
+Makowiec
+Sernik
+Babka
+Mazurek
+Szarlotka
+Pączki
+Faworki
+Chałka
+Piernik
+Rogal Świętomarciński
+Obwarzanek
+Precel
+Opłatek
+Żytni Chleb
+Borscht Ukrainian
+Varenyky
+Holubtsi
+Pampushky
+Chicken Kyiv
+Deruny
+Syrniki
+Okroshka
+Solyanka
+Pelmeni
+Beef Stroganoff
+Olivier Salad
+Herring Under Fur Coat
+Blini
+Syrniki Russian
+Vinegret
+Shchi
+Rassolnik
+Ukha
+Pirozhki
+Kvass Bread
+Kvas
+Medovnik
+Vatrushka
+Ponchiki
+Zephyr Russian
+Pastila
+Ptichye Moloko
+Sushki
+Baranki
+Sushka Bread
+Pryaniki
+Halva Russian
+Churchkhela
+Khinkali
+Mtsvadi
+Lobiani
+Mchadi
+Ghomi
+Khachapuri Adjarian
+Ojakhuri
+Chakhokhbili
+Chikhirtma
+Chanakhi
+Satsivi
+Badrijani Nigvzit
+Pkhali
+Lobio
+Gozinaki
+Churchkhela Georgian
+Tkemali
+Adjika
+Sulguni
+Imeruli Khachapuri
+Megrelian Khachapuri
+Dolma Armenian
+Ghapama
+Harissa Armenian
+Lahmajoun
+Manti Armenian
+Basturma
+Sujukh
+Zhingyalov Hats
+Khash
+Spas
+Madzoon
+Gata
+Pakhlava Armenian
+Nazuk
+Kadayif Turkish
+Kunefe
+Revani Turkish
+Halva Turkish
+Sutlac
+Muhallebi Turkish
+Aşure Turkish
+Kabak Tatlısı
+Kazandibi Turkish
+Ekmek Kadayıfi
+Tulumba
+Şekerpare Turkish
+Vezir Parmağı
+Dilber Dudağı
+Hanım Göbeği
+Zülbiye
+Lokma
+Irmik Helvası
+Un Helvası
+Tarhana
+Mantı Turkish
+Gözleme Turkish
+Börek Turkish
+Sigara Böreği
+Su Böreği
+Kol Böreği
+Tahinli Pide
+Etli Pide
+Peynirli Pide
+Lahmacun Turkish
+Kumpir Turkish
+Simit Turkish
+Pogaça Turkish
+Midye Dolma Turkish
+Kokoreç Turkish
+Rice Pilaf
+Lamb Pilaf
+Chicken Pilaf
+Plov Uzbek
+Samsa
+Lagman
+Shurpa
+Dimlama
+Manti Uzbek
+Mosh Guruch
+Naryn
+Beshbarmak
+Kuyrdak
+Sorpa
+Shelpek
+Baursak
+Kurt
+Qymyz
+Shashlik
+Manty
+Plov
+Manpar
+Chuchvara
+Somsa
+Kazan Kebab
+Dolma Uzbek
+Achichuk Salad
+Vinaigrette Uzbek
+Tashkent Salad
+Green Tea Uzbek
+Non Bread
+Patyr Bread
+Gisht Chuchvara
+Dimlama Stew
+Mastava
+Shaker Palova
+Kichiri
+Bichak
+Katlama
+Qovurma Lag'mon
+Tadjik Osh
+Afghan Bolani
+Afghan Qabuli Palau
+Mantu Afghan
+Borani Eggplant
+Bourani Spinach
+Shorwa Afghan
+Korma Afghan
+Kabuli Pulao
+Tikka Afghan
+Chapli Kebab
+Shinwari Karahi
+Aushak
+Bolani Afghan
+Roht Afghan
+Sheer Payra
+Firni Afghan
+Halwa e Aurd Afghan
+Raisin Rice
+Qorma
+Mung Bean Soup Afghan
+Dopiaza
+Bonjan Rumi
+Kofta Afghan
+Seekh Kebab Afghan
+Tandoori Afghan
+Naan Afghan
+Lavash Afghan
+Challah
+Matzo Ball Soup
+Brisket Jewish
+Gefilte Fish
+Cholent
+Tzimmes
+Kugel
+Latke
+Sufganiyot
+Hamantaschen
+Rugelach
+Babka
+Mandelbrot
+Macaroon Jewish
+Halva Israeli
+Shakshuka Israeli
+Sabich
+Falafel Israeli
+Hummus Israeli
+Israeli Salad
+Tahini
+Labneh Israeli
+Pita Israeli
+Msabbaha Israeli
+Jerusalem Mixed Grill
+Shakshouka
+Ful Medames Israeli
+Mejadra
+Knafeh Israeli
+Halva Sesame
+Tahini Cookies
+Maamoul Israeli
+Maqluba
+Za'atar Salad
+Fattoush Israeli
+Freekeh
+Muhamara
+Kibbeh Israeli
+Arancini Siciliani
+Caponata Siciliana
+Pasta con le Sarde
+Pasta alla Norma Siciliana
+Spaghetti al Nero di Seppia
+Gnocchi al Ragù
+Gnocchi di Patate
+Gnocchi alla Sorrentina
+Ravioli di Ricotta
+Lasagna alla Bolognese
+Cannelloni
+Baked Ziti
+Baked Pasta
+Mac and Cheese
+Macaroni and Cheese
+Grilled Cheese Sandwich
+BLT Sandwich
+Club Sandwich
+Reuben Sandwich
+Philly Cheesesteak
+Po' Boy
+Muffuletta
+Lobster Roll
+Shrimp Po Boy
+Italian Beef Sandwich
+Pulled Pork Sandwich
+Sloppy Joe
+Turkey Sandwich
+Ham Sandwich
+Tuna Melt
+Breakfast Burrito
+Breakfast Sandwich
+McGriddle
+McMuffin
+Egg McMuffin
+Hash Browns
+Home Fries
+French Fries
+Curly Fries
+Waffle Fries
+Steak Fries
+Sweet Potato Fries
+Onion Rings
+Mozzarella Sticks
+Jalapeño Poppers
+Buffalo Wings
+Chicken Wings
+Barbecue Ribs
+Baby Back Ribs
+Spare Ribs
+St. Louis Ribs
+Texas Brisket
+Smoked Brisket
+Pulled Pork
+Burnt Ends
+Smoked Sausage
+Smoked Turkey
+Barbecue Chicken
+Beer Can Chicken
+Rotisserie Chicken
+Fried Chicken
+Nashville Hot Chicken
+Chicken and Waffles
+Chicken Tenders
+Chicken Nuggets
+Popcorn Chicken
+Crispy Chicken Sandwich
+Grilled Chicken Sandwich
+Chicken Caesar Salad
+Cobb Salad
+Greek Salad
+Wedge Salad
+Caprese Salad
+Arugula Salad
+Nicoise Salad
+Pasta Salad
+Potato Salad
+Coleslaw
+Macaroni Salad
+Waldorf Salad American
+Chicken Pot Pie
+Beef Pot Pie
+Turkey Pot Pie
+Quiche American
+Clam Chowder
+New England Clam Chowder
+Manhattan Clam Chowder
+Lobster Bisque
+Crab Bisque
+Shrimp Bisque
+French Onion Soup American
+Minestrone American
+Tomato Soup
+Chicken Noodle Soup
+Beef Vegetable Soup
+Split Pea Soup
+Lentil Soup
+Black Bean Soup
+Corn Chowder
+Potato Soup
+Broccoli Cheddar Soup
+Wild Rice Soup
+Chili
+White Chicken Chili
+Beef Chili
+Texas Chili
+Cincinnati Chili
+Vegetarian Chili
+Clam Bake
+Oyster Stew
+Crab Cakes
+Shrimp and Grits
+Crawfish Étouffée
+Jambalaya
+Gumbo
+Red Beans and Rice
+Dirty Rice
+Hush Puppies
+Biscuits and Gravy
+Chicken Fried Steak
+Country Fried Steak
+Meat Loaf
+Pot Roast
+Beef Stew
+Irish Stew
+Lamb Stew
+Brunswick Stew
+Hoppin John
+Succotash
+Corn on the Cob
+Elotes American
+Corn Pudding
+Sweet Potato Casserole
+Green Bean Casserole
+Stuffing
+Thanksgiving Turkey
+Cranberry Sauce
+Pecan Pie
+Pumpkin Pie
+Apple Pie
+Cherry Pie
+Blueberry Pie
+Key Lime Pie
+Lemon Meringue Pie
+Banana Cream Pie
+Coconut Cream Pie
+Sweet Potato Pie
+Boston Cream Pie
+New York Cheesecake
+Strawberry Cheesecake
+Chocolate Cheesecake
+Baked Alaska
+Bread Pudding
+Banana Pudding
+Rice Pudding American
+Chocolate Mousse
+Chocolate Lava Cake
+Chocolate Cake
+Red Velvet Cake
+Carrot Cake
+Hummingbird Cake
+German Chocolate Cake
+Funfetti Cake
+Bundt Cake
+Angel Food Cake
+Pound Cake
+Lemon Drizzle Cake
+Tres Leches
+Rum Cake
+Pineapple Upside Down Cake
+Fruitcake
+Gingerbread
+Brownie
+Blondie
+Chocolate Chip Cookie
+Snickerdoodle
+Oatmeal Raisin Cookie
+Peanut Butter Cookie
+Sugar Cookie
+Biscotti
+Macaroon American
+French Macaron
+Donut
+Glazed Donut
+Jelly Donut
+Cinnamon Roll
+Sticky Bun
+Coffee Cake
+Streusel Cake
+Crumb Cake
+Babka Chocolate
+Rugelach Chocolate
+Hamantaschen Poppy
+Mandelbrot Almond
+Sfogliatella American
+Cannolo
+Tiramisu Cup
+Panna Cotta Mango
+Crème Brûlée American
+Flan American
+Churros American
+Sopapilla
+Beignet New Orleans
+Funnel Cake
+Elephant Ear
+Fried Oreo
+Fried Twinkies
+Deep Fried Butter
+Cotton Candy
+Caramel Apple
+Candy Bar
+S'mores
+Rice Crispy Treat
+Jello
+Tapioca Pudding
+Indian Pudding
+Fluffernutter
+Peanut Butter and Jelly
+Grilled PB and J
+Elvis Sandwich
+Monte Cristo Sandwich
+Croque Monsieur American
+Denver Omelette
+Western Omelette
+Spanish Omelette
+Huevos Rancheros American
+Migas American
+Breakfast Tacos
+Pancake Stack
+Dutch Baby
+German Pancake
+Swedish Pancake
+Crepes American
+Belgian Waffle
+Liège Waffle
+Bubble Waffle
+Pandan Waffle
+Hong Kong Egg Waffle
+Matcha Pancake
+Red Velvet Pancake
+Lemon Ricotta Pancake
+Banana Foster
+Bananas Foster Pancake
+Blueberry Pancake
+Buckwheat Pancake
+Buttermilk Pancake
+Cornmeal Pancake
+Zucchini Pancake
+Potato Pancake
+Blini Russian
+Injera Ethiopian
+Dosa Indian
+Jeon Korean
+Okonomiyaki Japanese
+Banh Xeo Vietnamese
+Bing Chinese
+Jianbing Chinese
+Crepe French
+Galette Bretonne French
+Açaí Bowl
+Dragon Fruit Bowl
+Pitaya Bowl
+Mango Bowl
+Papaya Bowl
+Tropical Smoothie Bowl
+Berry Smoothie Bowl
+Green Smoothie Bowl
+Peanut Butter Smoothie Bowl
+Matcha Smoothie Bowl
+Overnight Oats
+Chia Pudding
+Avocado Smoothie
+Mango Smoothie
+Banana Smoothie
+Strawberry Smoothie
+Watermelon Juice
+Fresh Orange Juice
+Pomegranate Juice
+Celery Juice
+Green Juice
+Detox Juice
+Cold Brew Coffee
+Iced Coffee
+Iced Matcha Latte
+Iced Chai Latte
+Horchata
+Agua Fresca
+Tamarind Drink
+Jamaica Hibiscus Drink
+Rose Milk
+Taro Drink
+Butterfly Pea Flower Tea
+Lychee Drink
+Lemon Iced Tea
+Sweet Tea
+Arnold Palmer
+Lemonade
+Strawberry Lemonade
+Lavender Lemonade
+Mint Lemonade
+Ginger Lemonade
+Sparkling Lemonade
+Kombucha
+Kefir
+Lassi Mango
+Lassi Rose
+Ayran Turkish
+Chaas Indian
+Doogh Persian
+Tan Armenian
+Kefir Russian
+Kvass Russian
+Boza Bulgarian
+Maheu African
+Togwa African
+Ginger Beer
+Ginger Ale
+Sparkling Water
+Coconut Water
+Aloe Vera Drink
+Rose Water Lemonade
+Tamarind Candy
+Pickle Juice
+Beet Kvass
+Turmeric Latte
+Golden Milk
+Masala Chai
+Cardamom Coffee
+Salted Caramel Macchiato
+Pumpkin Spice Latte
+Mocha Frappuccino
+Affogato
+Espresso Tonic
+Nitro Cold Brew
+Dirty Chai
+Oat Milk Latte
+Soy Latte
+Almond Milk Cappuccino
+Vietnamese Iced Tea
+Yuzu Soda
+Calamansi Juice
+Pandan Milk
+Ube Milk Tea
+Butterfly Pea Lemonade
